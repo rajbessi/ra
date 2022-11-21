@@ -25,6 +25,7 @@ public class Staff {
         Sample s=new Sample();
         s.setId(1);
         s.setName("raj");
+        // statement:
         System.out.println("The id is "+s.getId()+" and the name is "+s.getName());
     }
 }
